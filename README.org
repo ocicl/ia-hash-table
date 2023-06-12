@@ -1,0 +1,10 @@
+* ia-hash-table
+
+Indifferent access hash-tables for Common Lisp. Also with dot syntax
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/deadtrickster/ia-hash-table.git   |
+| commit  | 5e4806c  |
+| systems | ia-hash-table |
+|---------+-------------------------------------------|
+
